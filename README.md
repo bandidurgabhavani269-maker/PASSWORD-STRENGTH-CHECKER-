@@ -54,6 +54,7 @@ A strong password should include:
 | abc123 | Weak |
 | Abc12345 | Medium |
 | A@b9#X2k | Strong |
+<img width="311" height="280" alt="Screenshot 2026-06-20 230214" src="https://github.com/user-attachments/assets/718af3f3-3c8d-4853-a6a8-8c5eca07e959" />
 
 ---
 
