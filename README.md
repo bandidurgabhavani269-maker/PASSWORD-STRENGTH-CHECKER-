@@ -94,4 +94,4 @@ The Password Strength Checker is a simple yet effective cybersecurity project. I
 
 ---
 
-## 🙏 Thank You
+##  Thank You
